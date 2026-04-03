@@ -67,25 +67,25 @@ All contributions must align with ENOTRIUM AIP architecture and national-securit
 #### FiberForge/
 #### ├── README.md                         
 #### ├── docs/
-│   ├── technical-ai-architecture.md   ← Core AI-defined pipeline
-│   ├── hemp-fiber-specifications.md
-│   ├── bamboo-lignin-extraction.md
-│   ├── hemp-carbon-bamboo-silicon.md
-│   ├── surface-activation-modification.md
-│   ├── bioplastics-formulations.md
-│   ├── wisconsin-facility-plan.md
-│   ├── automotive-interior-pipeline.md
-│   └── hemp-ballistics-data.md
-├── architecture/
-│   ├── aip-orchestration.mmd          ← Mermaid AI pipeline diagram
-│   ├── fiber-to-battery-flow.svg
-│   └── process-control-flow.md
-├── specs/
-│   ├── product-tiers.md
-│   ├── material-test-protocols.md
-│   └── high-margin-applications.md
-├── data/
-│   ├── sample-fiber-properties.csv
-│   └── pyrolysis-yield-models/
-├── LICENSE (Apache 2.0)
-└── .github/workflows/ci-cd.yml        ← Basic validation pipeline
+#### │   ├── technical-ai-architecture.md   ← Core AI-defined pipeline
+#### │   ├── hemp-fiber-specifications.md
+#### │   ├── bamboo-lignin-extraction.md
+#### │   ├── hemp-carbon-bamboo-silicon.md
+#### │   ├── surface-activation-modification.md
+#### │   ├── bioplastics-formulations.md
+#### │   ├── wisconsin-facility-plan.md
+#### │   ├── automotive-interior-pipeline.md
+#### │   └── hemp-ballistics-data.md
+#### ├── architecture/
+#### │   ├── aip-orchestration.mmd          ← Mermaid AI pipeline diagram
+#### │   ├── fiber-to-battery-flow.svg
+#### │   └── process-control-flow.md
+#### ├── specs/
+#### │   ├── product-tiers.md
+#### │   ├── material-test-protocols.md
+#### │   └── high-margin-applications.md
+#### ├── data/
+#### │   ├── sample-fiber-properties.csv
+#### │   └── pyrolysis-yield-models/
+#### ├── LICENSE (Apache 2.0)
+#### └── .github/workflows/ci-cd.yml        ← Basic validation pipeline
