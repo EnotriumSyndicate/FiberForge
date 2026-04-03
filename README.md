@@ -62,12 +62,11 @@ Enotrium AIP serves as the **autonomous intelligence layer** that orchestrates e
 **Contribution Guidelines**  
 All contributions must align with ENOTRIUM AIP architecture and national-security / Berry Amendment standards.
 
----
-*Confidential – For Internal & Accredited Investor Use Only. Aligns with Enotrium PPM DRAFT (March 2026).*
 
-FiberForge/
-├── README.md                         
-├── docs/
+
+**** FiberForge/
+**** ├── README.md                         
+**** ├── docs/
 │   ├── technical-ai-architecture.md   ← Core AI-defined pipeline
 │   ├── hemp-fiber-specifications.md
 │   ├── bamboo-lignin-extraction.md
