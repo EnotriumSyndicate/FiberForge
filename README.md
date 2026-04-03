@@ -64,9 +64,9 @@ All contributions must align with ENOTRIUM AIP architecture and national-securit
 
 
 
-**** FiberForge/
-**** ├── README.md                         
-**** ├── docs/
+#### FiberForge/
+#### ├── README.md                         
+#### ├── docs/
 │   ├── technical-ai-architecture.md   ← Core AI-defined pipeline
 │   ├── hemp-fiber-specifications.md
 │   ├── bamboo-lignin-extraction.md
